@@ -1,6 +1,6 @@
 # Hi there, I'm Tujit 👋
 
-![GitHub followers](https://img.shields.io/github/followers/tujit?label=Follow&style=social) 
+<!-- ![GitHub followers](https://img.shields.io/github/followers/tujit?label=Follow&style=social) -->
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tujit.tujit) -->
 
 ## About Me
@@ -60,9 +60,9 @@ I am a software developer with a strong focus on Full-Stack Development, Cloud C
 - [How to Test?](https://github.com/tujit/tujit/new/main?readme=1) - Testing can vary depending on what you're working on, but here are some general approaches for different scenarios.
 - [How to Develop](https://github.com/tujit/tujit/new/main?readme=1) - Developing software typically involves several steps, from planning and setting up the environment to writing code, testing, and deployment.
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tujit&show_icons=true&hide_border=true&theme=tokyonight)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tujit&show_icons=true&hide_border=true&theme=tokyonight) -->
 
 ## 🤝 Let's Connect
 
