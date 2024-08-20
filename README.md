@@ -1,7 +1,7 @@
 # Hi there, I'm Tujit 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/tujit?label=Follow&style=social) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=tujit.tujit)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tujit.tujit) -->
 
 ## About Me
 
