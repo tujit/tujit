@@ -1,11 +1,6 @@
-# Hi there, I'm Tujit 👋
+### Hi, I'm Tujit!
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/tujit?label=Follow&style=social) -->
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tujit.tujit) -->
-
-## About Me
-
-I am a software developer with a strong focus on Full-Stack Development, Cloud Computing & AI/ML. I enjoy building impactful software solutions and continuously learning new technologies to enhance my skill set.
+I am a software developer with a strong focus on Full-Stack Development and Cloud Computing. I'm also an AI/ML and cybersecurity enthusiast.
 
 - 🌱 Currently exploring **Terraform**
 - 👨‍💻 Working on **Something Secret** 🤫🔍
