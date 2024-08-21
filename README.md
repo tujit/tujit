@@ -4,8 +4,6 @@ I am a software developer with a strong focus on Full-Stack Development and Clou
 
 - 🌱 Currently exploring **Terraform**
 - 👨‍💻 Working on **Something Secret** 🤫🔍
-- 📫 Reach me at **tujitbora@ymail.com**
-- 🌍 Visit my website: **[tujit bora](https://github.com/tujit/tujit/new/main?readme=1)**
 
 ## 🛠️ Skills & Tools
 
