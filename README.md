@@ -3,7 +3,7 @@
 I am a software developer with a strong focus on Full-Stack Development and Cloud Computing. I'm also an AI/ML and cybersecurity enthusiast.
 
 - 🌱 Currently exploring **Terraform**
-- 👨‍💻 Working on **Nothing** 🤫🔍
+- 👨‍💻 Working on **Nothing**
 
 ## 🛠️ Skills & Tools
 
