@@ -5,7 +5,7 @@ I am a software developer with a strong focus on Full-Stack Development and Clou
 - 🌱 Currently exploring **Elixir**
 - 👨‍💻 Working on **Nothing**
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages:** Golang, JavaScript, NodeJS, PHP
 
@@ -16,7 +16,7 @@ I am a software developer with a strong focus on Full-Stack Development and Clou
 **Others:** Terraform, Elasticsearch, Redis, RabbitMQ, Docker, Kubernetes, aws, gcp
 
 
-## 🔭 Featured Projects
+## Featured Projects
 
 ### [Project 1 Terraform Provider for Cidaas](https://github.com/cidaas/terraform-provider-cidaas)
 <!-- **Description:** Brief description of the project, what it does, and the technologies used. -->
@@ -27,7 +27,7 @@ I am a software developer with a strong focus on Full-Stack Development and Clou
 ### [Project 3 Name](https://github.com/[your-username]/[project3-repo])
 **Description:** Brief description of the project, what it does, and the technologies used.
 -->
-## 💼 Experience
+## Experience
 
 - **Senior Software Developer** at **WidasConcepts** - *Jun 2022 - Present*
   <!-- - Description of your role, key achievements, and technologies used. -->
