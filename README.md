@@ -13,4 +13,4 @@ A software developer with experience in full-stack development and cloud computi
 
 **Database:** PostgreSQL, MongoDB
 
-**Others:** Terraform, Elastic, Redis, RabbitMQ, Docker, Kubernetes, aws, gcp
+**Others:** Terraform, Elastic, Redis, RabbitMQ, Docker, Kubernetes, AWS
