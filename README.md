@@ -1,11 +1,11 @@
-### Hi, I'm Tujit!
+#### Hi, I'm Tujit!
 
-I am a software developer with a strong focus on Full-Stack Development and Cloud Computing. I'm also an AI/ML and cybersecurity enthusiast.
+A software developer with experience in full-stack development and cloud computing. I'm also an AI/ML and cybersecurity enthusiast.
 
 - 🌱 Currently exploring **Elixir**
 - 👨‍💻 Working on **Nothing**
 
-## Skills & Tools
+### Skills & Tools
 
 **Languages:** Golang, JavaScript, Node.js, PHP, Elixir, SQL
 
